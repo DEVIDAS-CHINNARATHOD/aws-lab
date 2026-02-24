@@ -1,9 +1,9 @@
 # Experiment Title  
-**Exploring AWS CloudShell and the AWS Cloud9 IDE**
+**1)Exploring AWS CloudShell and the AWS Cloud9 IDE**
 
 ---
 
-## ⚠️ Important Note (Must Mention)
+## Important Note (Must Mention)
 
 - AWS Cloud9 is currently restricted for new AWS accounts.  
 - Therefore, AWS CloudShell and AWS Toolkit in a local IDE are used as an alternative recommended by AWS.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Use AWS CloudShell for AWS CLI operations  
 - Understand the role of AWS Cloud9  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Services Used
+## Services Used
 
 - AWS CloudShell  
 - AWS Toolkit  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧪 PART A: Exploring AWS CloudShell (Hands-On)
+## PART A: Exploring AWS CloudShell (Hands-On)
 
 ### Step 1: Open CloudShell
 1. Login to AWS Management Console  
@@ -62,7 +62,7 @@ aws s3 ls
 
 ---
 
-## 🧪 PART B: Exploring AWS Cloud9 IDE (Conceptual)
+## PART B: Exploring AWS Cloud9 IDE (Conceptual)
 
 ### Step 1: Access Cloud9
 - Open AWS Management Console  
@@ -80,7 +80,7 @@ aws s3 ls
 
 ---
 
-## 🧪 PART C: Alternative to Cloud9 (AWS Toolkit in Local IDE)
+##  PART C: Alternative to Cloud9 (AWS Toolkit in Local IDE)
 
 ### Step 1: Install Local IDE
 - Download and install **Visual Studio Code**
@@ -110,10 +110,7 @@ python3 hello.py
 
 ---
 
-## 📘 Lab Record Content
 
-### Aim
-To explore AWS CloudShell and AWS Cloud9 IDE.
 
 ### Procedure
 - Executed Linux and AWS CLI commands using AWS CloudShell  
