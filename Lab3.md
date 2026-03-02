@@ -84,10 +84,10 @@ Student Management System
 ## Insert Item
 
 Go to Explore Table → Create Item → JSON view and insert:
-
+```
 { "student_id": "S101", "name": "Devidas", "branch": "CSE", "semester":
 4, "cgpa": 8.7 }
-
+```
 ## Perform Operations
 
 -   Get Item
@@ -155,9 +155,9 @@ Session or OTP storage system.
     -   Partition key: session_id (String)
     -   Billing mode: On-Demand
 2.  Insert Sample Item:
-
+```
 { "session_id": "abc123", "user": "devidas", "expiry_time": 1735689600 }
-
+```
 3.  Enable TTL:
     -   Go to Additional Settings → Time to Live
     -   Enable TTL
