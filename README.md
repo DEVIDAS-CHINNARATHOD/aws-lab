@@ -8,7 +8,7 @@ Each experiment includes:
 - Objective
 - Steps / Commands
 - Implementation
-- Output / Explanation
+- Output 
 
 These programs are based on the **Cloud Computing Lab Manual** provided by the department.
 
